@@ -1,0 +1,6 @@
+com.econoforge.simulator.app-updated_navigation_xml-0 /home/culpen0/EconoForge/app/build/generated/updated_navigation_xml/debug
+com.econoforge.simulator.app-packageDebugResources-1 /home/culpen0/EconoForge/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.econoforge.simulator.app-packageDebugResources-2 /home/culpen0/EconoForge/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.econoforge.simulator.app-debug-3 /home/culpen0/EconoForge/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.econoforge.simulator.app-debug-4 /home/culpen0/EconoForge/app/src/debug/res
+com.econoforge.simulator.app-main-5 /home/culpen0/EconoForge/app/src/main/res
